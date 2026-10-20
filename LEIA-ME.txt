@@ -1,0 +1,13 @@
+VIVALEVE | JORNADA DO BEM-ESTAR
+
+Arquivos do jogo: index.html, style.css, script.js, perguntas.js e aleatorio.js.
+
+Para publicar no GitHub Pages:
+1. Crie um repositório público.
+2. Envie os cinco arquivos para a raiz do repositório.
+3. Em Settings > Pages, escolha Deploy from a branch, main, /(root).
+4. Abra o endereço HTTPS do GitHub Pages após a publicação.
+
+IMPORTANTE: o jogo usa módulos JavaScript. Abrir index.html via file:// pode bloquear os imports. Use GitHub Pages ou um servidor HTTP local.
+
+Requisitos: import/export, aleatorio(), replace(), addEventListener(), classList.add/remove, iniciaJogo(), chave proxima, múltiplos finais.
